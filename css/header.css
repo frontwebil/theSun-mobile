@@ -1,0 +1,43 @@
+.head {
+  max-width: 385px;
+  position: fixed;
+  width: 100%;
+  background-color: #eb1701;
+  z-index: 5;
+}
+/* .fixed{
+  position: fixed;
+  width: 100%;
+} */
+.head-container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+}
+.head-left {
+  display: flex;
+  align-items: center;
+}
+.head-left-img {
+  width: 135px;
+  height: 60px;
+}
+
+.head-right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.head-right-card {
+  display: flex;
+  align-items: center;
+  flex-direction: column-reverse;
+  gap: 3px;
+}
+.head-right-card-text {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 700;
+  font-family: "Roboto";
+}

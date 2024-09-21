@@ -1,0 +1,110 @@
+.main-content {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 12px 0;
+}
+
+.read-more {
+  background-color: #cafdf4;
+  padding: 10px 16px 14px;
+}
+.read-more-flex {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 9px;
+}
+.read-more-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.feel-emasculated {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  padding: 0 16px;
+}
+.feel-emasculated-text {
+  color: #038577;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.george {
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  gap: 10px;
+}
+.george-info {
+  display: flex;
+  flex-direction: column;
+}
+.george-name {
+  color: #f00;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.george-text {
+  color: #616161;
+  font-family: Roboto;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.border-box {
+  border: 3px solid #000;
+  background: #fff;
+  margin: 0 16px;
+  padding: 20px 20px;
+}
+.border-box-text {
+  text-align: center;
+  max-width: 311px;
+  margin: 0 auto;
+  color: #f00;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.border-box-author {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.code{
+  color: #F00;
+text-align: center;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 12px 20px;
+border: 2px solid #000;
+max-width: 192px;
+margin: 20px auto 10px;
+display: block;
+}

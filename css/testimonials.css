@@ -1,0 +1,58 @@
+.testimonials {
+  background-color: #fff;
+  padding: 20px 0 0;
+}
+.topics {
+  padding: 0 12px;
+  display: flex;
+  gap: 9px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.topics-block {
+  border: 1px solid #000;
+  background: #fff;
+  padding: 10px 7px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+
+.coments {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.coment-block {
+  display: flex;
+  flex-direction: column;
+  margin: 0 13px;
+}
+.coment-block-title {
+  color: #000;
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.coment-block-text {
+  color: #000;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.coment-block-img {
+  display: flex;
+  justify-content: space-between;
+}
+.coment-block-img-share {
+  display: flex;
+}

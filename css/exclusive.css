@@ -1,0 +1,35 @@
+.exclusive {
+  background: #232526;
+  padding: 20px 15px 15px;
+}
+.exclusive-title {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 8px 14px;
+  display: inline-block;
+  background: #01a08f;
+  margin-bottom: 9px;
+}
+
+.exclusive-feeling-title {
+  margin-top: 20px;
+  color: #01a08f;
+  font-family: Roboto;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+.exclusive-feeling-text {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  margin-bottom: 13px;
+}

@@ -1,0 +1,40 @@
+.order-now {
+  border-radius: 16px;
+background: #6A6A6A;
+margin: 0 10px;
+text-align: center;
+}
+
+.text-20px.order-now{
+  margin: 0 10px;
+  width: 100%;
+  background-color: red;
+}
+
+
+@keyframes my-anim {
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+
+.money-back {
+  border-radius: 8px;
+border: 4px solid #E5C25D;
+background: #6A6A6A;
+margin: 0 8px;
+text-align: center;
+padding: 25px 10px;
+}
+.money-back-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.guarant-img {
+  width: 140px;
+  height: 125px;
+  margin-top: -28px;
+  margin-bottom: 20px;
+}
